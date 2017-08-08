@@ -1,0 +1,9 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+10.0.0.29	puppetmaster17.puppet.local	puppetmaster17
+10.0.0.110	db.puppet.com			db
+10.0.0.160      clienttest.puppet.local clienttest
+10.0.0.243      testsplunk.puppet.com           testsplunk
+10.0.0.8        test.com  test
+10.0.0.42       testiptable.puppet.local    testiptable                
+10.0.0.193      testmcollective.puppet.local    testmcollective
